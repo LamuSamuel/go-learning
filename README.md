@@ -1,4 +1,4 @@
-# Language- G)
+# Language- GO
 
 ### Go was developed by google in the year 2007   and opensourced in 2009 .
 
