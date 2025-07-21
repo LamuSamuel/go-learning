@@ -1,4 +1,4 @@
-[Cruize-booking-App](https://github.com/LamuSamuel/go-learning/tree/main/booking-app)
+A basic App that covers most of the Go Features : [Cruize-booking-App](https://github.com/LamuSamuel/go-learning/tree/main/booking-app)
 
 # Language- GO
 
