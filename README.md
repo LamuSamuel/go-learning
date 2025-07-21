@@ -4,19 +4,19 @@
 
 ### Why do you think go was developed , even though we have many different languages ?
 
-    * Infrastructure where applications were deployed  has changed a lot in the recent times
+     Infrastructure where applications were deployed  has changed a lot in the recent times
 
-    * Multi core processors became common and using cloud infra with hundred or even thousands of servers  with multiple processors to deploy applications became universal. so infrastructure became much more scalable , dynamic and had more capacity.
+     Multi core processors became common and using cloud infra with hundred or even thousands of servers  with multiple processors to deploy applications became universal. so infrastructure became much more scalable , dynamic and had more capacity.
      
-    * However most programming languages didnt help in writing applications that would take advantage  of these infrastructure improvements. in simple words , we have applications that perform one task at a time, but with infrastructure improvements it is now possile to write applications that would execute tasks in parallel.
+     However most programming languages didnt help in writing applications that would take advantage  of these infrastructure improvements. in simple words , we have applications that perform one task at a time, but with infrastructure improvements it is now possile to write applications that would execute tasks in parallel.
 
-    * For example google drive , Download , Upload , Navigate UI  all happen in parallel or yt watching video , see how many likes , write a comment while watching , see other notified videos in the right tab. but while doing a particular thing do you face any issue with other task ? No right,  so this is a concept of multi threading.
+     For example google drive , Download , Upload , Navigate UI  all happen in parallel or yt watching video , see how many likes , write a comment while watching , see other notified videos in the right tab. but while doing a particular thing do you face any issue with other task ? No right,  so this is a concept of multi threading.
 
-    * so each thread is doing one task at a time  and make others running parallel , this makes applications fast but may encounter some issues .
+    so each thread is doing one task at a time  and make others running parallel , this makes applications fast but may encounter some issues .
     
-    * for example a single ticket of a plane is available and three people tries to get it but ony one can buy  it this is conccurency  , so this also has to be handled 
+    for example a single ticket of a plane is available and three people tries to get it but ony one can buy  it this is conccurency  , so this also has to be handled 
 
-    * many languages can  it but the code gets pretty complex and handling and preventing the conccurency issue can be pretty hard , here *GO* comes in to the picture.
+    many languages can  it but the code gets pretty complex and handling and preventing the conccurency issue can be pretty hard , here *GO* comes in to the picture.
    
 ### Why go ?
 
